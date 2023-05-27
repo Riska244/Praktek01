@@ -11,5 +11,9 @@ package praktek01;
 public class MahasiswaAksi {
     public static void main(String[] args) {
         Mahasiswa Riska - new Mahasiswa();
+        
+        Riska.nama="Riska";
+        Riska.NPM="2110010244";
+        Riska.IPK=3.6;
     }
 }
