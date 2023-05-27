@@ -15,5 +15,7 @@ public class MahasiswaAksi {
         Riska.nama="Riska";
         Riska.NPM="2110010244";
         Riska.IPK=3.6;
+        
+        Riska.cetakInfo();
     }
 }
